@@ -1,15 +1,15 @@
-To run project efficiently follow these instructions:
-step 1: a) go to folder backend and execute below commands:
-	npm install
-	npm start
+To run project efficiently follow these instructions:\n
+step 1: a) go to folder backend and execute below commands:\n
+	npm install\n
+	npm start\n
 b) go to root folder of project and excute below commands:
-	npm install
-	npm start
-step 2: to run the project first run below link to seed the data
-	http://localhost:8080/importdata
-
-endpoints:-
-backend:
-http://localhost:8080/api
-frontend:
-http://localhost:3000/
+	npm install\n
+	npm start\n
+step 2: to run the project first run below link to seed the data\n
+	http://localhost:8080/importdata\n
+\n
+endpoints:-\n
+backend:\n
+http://localhost:8080/api\n
+frontend:\n
+http://localhost:3000/\n
